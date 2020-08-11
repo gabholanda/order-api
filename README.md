@@ -1,6 +1,9 @@
 # order-api
 <h1>Clone este repositório e então ..</h1>
 
+Crie um arquivo .env dentro da pasta /api e /web contendo as informações especificadas no .env.example
+no caso do /web coloque apenas está informação em seu .env REACT_APP_API_URL = http://localhost:8080/api
+
 Para rodar a API:
 
 entre na pasta /api e digite npm install no terminal e quando finalizar inicialize a aplicação com npm start
